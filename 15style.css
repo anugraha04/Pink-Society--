@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.bg{
+    background-image: url('final.jpeg');
+    background-size: 100% 100%;
+    background-repeat: no repeat;
+    background-attachment: fixed;
+}
+
+.logo{
+    font-size: 35px;
+}
+
+.pink{
+    color: hotpink;
+}
+
+.first{
+    border: 2px solid black;
+    
+}
+
+.main{
+    border: 2px solid black;
+}
+
+#link:link{
+    color: deeppink;
+}
+
+#link:visited{
+    color:deeppink;
+}
+
+#link:hover{
+   color:hotpink;
+}
+
+h2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.main{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+li{
+    display: inline-block;
+}
+
+#ot{
+    color: white;
+    background-color: hotpink;
+    border-radius: 5px;
+    padding: 8px;
+}
+
+#amt{
+    color: white;
+    background-color: hotpink;
+    border-radius: 5px;
+    padding: 8px;
+}
+
+.list1{
+    border: 1px solid black;
+    margin-left: 450px;
+    margin-right: 450px;
+    padding: 5px;
+}
+
+.list2{
+    border: 1px solid black;
+    margin-left: 450px;
+    margin-right: 450px;
+    padding: 5px;
+}
+
+li{
+    margin: 20px;
+    font-size: 22px;
+}
+
+body{
+   margin: 50px;
+}
+
+.but:link{
+    color: black;
+}
+
+.but:visited{
+    color: black;
+}
+
+.but:hover{
+    color: hotpink;
+}
+
